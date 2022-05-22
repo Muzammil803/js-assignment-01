@@ -45,4 +45,5 @@
 // var book = "smarter way to learn javascript"
 // alert(name
 // )
+//var a= 9
 
